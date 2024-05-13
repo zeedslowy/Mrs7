@@ -32,12 +32,16 @@ localhost/admin
 
 - Download and install [NodeJs](https://nodejs.org/en/download) on your computer.
 - Download the project as Zip to your computer and unzip it.
-- Enter the folder you extracted from the zip and open a terminal to the location of that folder, then enter the following commands.
-`npm install`
-- Start the bot by entering the following command in Terminal
+
+## Clone Repo 
+```
+git clone https://github.com/zeedslowy/Mrs7
+```
+- Enter the folder you extracted from the zip and open a terminal to the location of that folder, then enter the commands. `npm install`
+- Start the bot by entering the command in Terminal
 `node .`
 
-https://www.youtube.com/watch?v=Tk2yuSbWvLk
+[Youtube Watch 💜](https://www.youtube.com/watch?v=Tk2yuSbWvLk)
 
 ## ⛳Tech Stack ⛳
 
